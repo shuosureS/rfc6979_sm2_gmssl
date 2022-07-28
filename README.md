@@ -51,9 +51,9 @@ gen_k就是生成k的函数里面根据RFC文档中的步骤依次实现。
 |1111|31338491022916135759812321691097177620246|
 |111|56088773151934583287914657276110050933269961|
 
-![截图](attachment:b77d5e899b8f6044d6f2162fe9cbd4ad)
+![Image text](https://github.com/shuosureS/rfc6979_sm2_gmssl/blob/master/b77d5e899b8f6044d6f2162fe9cbd4ad.png)
 
-![截图](attachment:e9a15212ae8636281d8ecd272fb7530c)
+![Image text](https://github.com/shuosureS/rfc6979_sm2_gmssl/blob/master/e9a15212ae8636281d8ecd272fb7530c.png)
 
 ## 参考文献
 
